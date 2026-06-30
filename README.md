@@ -14,12 +14,18 @@
 
 ---
 
-●  **Discord:** `heavenburnsred`
+●  **Discord:** `heavensburnred`
+
+-
+
 ●  **Telegram:** `koeyy`
+
+-
+
 ●  **Other:** (same as my github username ;3)
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcno1dnhrZnc3b3M0ampoZjc2d2psN3YwNGVjN2Q1ZmlmbHJuempkaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MwtHY03ldRPgc/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcno1dnhrZnc3b3M0ampoZjc2d2psN3YwNGVjN2Q1ZmlmbHJuempkaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MwtHY03ldRPgc/giphy.gif" width="600" />
 </div>
